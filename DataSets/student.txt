@@ -1,0 +1,4 @@
+"101","shibil","bca","majlis"
+"102","siyad","bca","majlis"
+"103","shahin","bca","majlis"
+"104","shibin","bsc","majlis"

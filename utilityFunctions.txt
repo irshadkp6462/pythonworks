@@ -1,0 +1,19 @@
+print("message",end) => print a message in console
+
+type(object) => return data type of object
+
+input("message") => read value from console
+
+round(object,value)= to round the decimal result
+
+range(start,end,what to whant)
+
+len() to clc lenght
+
+min(num1,num2)to get smallest num 
+
+max(num1,num2) to get greatest num
+
+enumarate()  to get index,element
+
+sorted()
